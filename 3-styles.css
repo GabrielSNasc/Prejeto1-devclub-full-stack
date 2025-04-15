@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1{
+    color: red;
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    text-shadow: 5px 5px 10px red; /* colocar sombra na palavra */
+}
+
+p{
+    color: blue; /* troca a cor do texto */
+    font-size: 30px; /* troca o tamanho da fonte do texto */
+    font-weight: 100; /* troca a grossura do texto */
+    font-family: "Montserrat", sans-serif; /* colocar a fonte copiada */
+    font-style: italic; /* estiliza a fonte exmplo: italico e negrito */
+    line-height: 50px; /* aumentar ou diminuir a aultura das linhas */
+    letter-spacing: 10px; /* aumentar ou diminuir o espaçamento entre um letra e outra */
+    word-spacing: 40px; /* aumentar ou diminiuir o espaçamento entre as palavras */
+    text-align: justify; /* alinhamento do texto */
+    text-transform: capitalize; /* poder alterar as palavras deixando elas todas maiusculas ou minusculas ou só a primeira letra maiuscula */
+    text-decoration: underline; /* pode decorar o texto exemplo: colocar um underline ou colocar duas listras em volta das palavras */
+}

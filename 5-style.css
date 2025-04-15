@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background: hotpink;
+    padding: 20px;
+    border: 10px solid blue;
+}
+
+
+/* box-sizing */
