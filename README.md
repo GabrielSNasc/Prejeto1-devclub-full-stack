@@ -9,7 +9,7 @@ We Care // wide Coverage location
 <h3>Projeto:</h3>
 <img src="https://github.com/GabrielSNasc/Aula-css-Projeto1-Desafio1-devclub-full-stack/blob/main/img/Projeto%20css%201.png?raw=true" alt=foto-do-projeto />
 <br>
-<a href=""> Veja o Projeto <a/>
+
 
 <h2>Esse foi um Projeto que aprendi no DevClub, tecnologias usadas:</h2>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-foto" />
@@ -21,4 +21,4 @@ We Care // wide Coverage location
 <h3>Projeto // Modo Resposivo:</h3>
 <img height="600px"; src="https://github.com/GabrielSNasc/Aula-css-Projeto1-Desafio1-devclub-full-stack/blob/main/img/Projeto%20css%203%20wide%20coverage%20mobile.png?raw=true" alt="foto-do-projeto-Resposivo">
 <br>
-<a href=""> Veja o Projeto <a/>
+
